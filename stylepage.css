@@ -44,7 +44,9 @@ footer a:hover {
 }
 
 .about-container {
+    text-align: center;
     margin-top: 40px;
+
 }
 
 .person {
