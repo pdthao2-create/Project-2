@@ -13,6 +13,10 @@ body {
     border: 2px solid black;
 }
 
+.center-text {
+    text-align: center;
+}
+
 /* Title */
 h1 {
     text-align: center;
