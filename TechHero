@@ -1,1 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Project 2</title>
+    <link rel="stylesheet" href="stylepage.css">
+</head>
+<body>
+
+    <h1>Welcome</h1>
+
+
+<footer>
+    <a href="index">Home</a>
+    <a href="AboutUs">About Uss</a>
+    <a href="ImplicitBias>Implicit Bias</a>
+</footer>
+
+
+    
+</body>
+</html>
+
+
+
+
+
 
