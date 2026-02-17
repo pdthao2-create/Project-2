@@ -42,6 +42,20 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
+.about-container {
+    margin-top: 40px;
+}
+
+.person {
+    display: inline-block;
+    width: 28%;
+    vertical-align: top;
+    background-color: white;
+    padding: 15px;
+    margin: 10px;
+    border: 2px solid black;
+    text-align: left;
 }
 
 nav a {
